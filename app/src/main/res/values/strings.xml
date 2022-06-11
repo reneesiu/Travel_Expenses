@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Travel Expenses</string>
+    <string-array name="cities">
+        <item>Washington DC</item>
+        <item>Miami</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+    </string-array>
+</resources>
